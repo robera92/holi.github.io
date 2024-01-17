@@ -50,7 +50,7 @@ const Register = () => {
 
     useEffect(()=>{
         if(loading) return;
-        if(user) navigate('/works')
+        if(user) navigate('/home')
     },[user,loading])
 
 
