@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/holi.github.io/static/css/main.1288354e.css",
-    "main.js": "/holi.github.io/static/js/main.a9669c67.js",
+    "main.js": "/holi.github.io/static/js/main.fa36fb21.js",
     "index.html": "/holi.github.io/index.html",
     "main.1288354e.css.map": "/holi.github.io/static/css/main.1288354e.css.map",
-    "main.a9669c67.js.map": "/holi.github.io/static/js/main.a9669c67.js.map"
+    "main.fa36fb21.js.map": "/holi.github.io/static/js/main.fa36fb21.js.map"
   },
   "entrypoints": [
     "static/css/main.1288354e.css",
-    "static/js/main.a9669c67.js"
+    "static/js/main.fa36fb21.js"
   ]
 }
