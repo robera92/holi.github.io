@@ -1,0 +1,17 @@
+.display_image { position: relative; }
+.display_image img { display: block; }
+.display_image svg { position: absolute; bottom:0; right:0; margin: 10px; }
+
+.add_photo_button_container{
+    min-height: 80vh;
+}
+
+
+.layout1 img{
+    border-radius: 50%;
+}
+
+.image_container{
+    display: flex;
+    justify-content: center;
+}
